@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Cube",
+"dataUrl": "expounity1.0.data.unityweb",
+"wasmCodeUrl": "expounity1.0.wasm.code.unityweb",
+"wasmFrameworkUrl": "expounity1.0.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
